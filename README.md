@@ -1,4 +1,7 @@
 # Bootstrap
+
+Barikut Hasil Dari penerapan scrip Bootsrap dan Hasilnya👇🏻
+
 ![Alt Text](https://github.com/Richmondjanusrafiiaryanto/Bootstrap/blob/master/Screenshot%20(765).png)
 ![Alt Text](https://github.com/Richmondjanusrafiiaryanto/Bootstrap/blob/master/Screenshot%20(766).png)
 ![Alt Text](https://github.com/Richmondjanusrafiiaryanto/Bootstrap/blob/master/Screenshot%20(767).png)
